@@ -1,4 +1,4 @@
-<h1 align='center'><a href='https://joelgrayson.com'>Joel Grayson<sub><sup><sub>.com</sub></sup></sub></a></h1>
+<h1 align='center'><a href='https://joelgrayson.com' target='_blank'>Joel Grayson<sub><sup><sub>.com</sub></sup></sub></a></h1>
 
 <br/>
 
@@ -40,5 +40,7 @@
 <br/>
 
 <p align='center'>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelgrayson&theme=github&hide_title=true" width="720"/>
+    <a href='https://skyline.github.com/JoelGrayson/' target='_blank'>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelgrayson&theme=github&hide_title=true" width="720"/>
+    </a>
 </p>
