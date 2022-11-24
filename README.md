@@ -22,8 +22,9 @@
                 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspi-red?logo=raspberrypi">
                 <br/>
                 <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-                <img alt='Assembly' src='https://custom-icon-badges.demolab.com/badge/-Assembly (ARM and X86)-black?logo=asm&logoColor=white' />
+                <img alt='Assembly' src='https://custom-icon-badges.demolab.com/badge/-Assembly (ARM & X86)-black?logo=asm&logoColor=white' />
                 <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-darkblue?logo=haskell">
+                <img alt="Haskell" src="https://img.shields.io/badge/-OpenSSL-red">
                 <br/>
                 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
                 <img alt="Amazon AWS" src='https://img.shields.io/badge/-AWS-orange?logo=amazonaws'/>
@@ -32,7 +33,7 @@
             </div>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelgrayson&langs_count=24&layout=compact&line_height&theme=vue&hide_title=true&hide=jupyter%20notebook" height="220"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelgrayson&langs_count=24&layout=compact&line_height&theme=vue&hide_title=true&hide=jupyter%20notebook,python" height="220"/>
         </td>
     </tr>
 </table>
