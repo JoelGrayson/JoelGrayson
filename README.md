@@ -33,7 +33,7 @@
             </div>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelgrayson&langs_count=24&layout=compact&line_height&theme=vue&hide_title=true&hide=jupyter%20notebook,python,css,dockerfile" height="220"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelgrayson&langs_count=24&layout=compact&line_height&theme=vue&hide_title=true&hide=jupyter%20notebook,css,html,python" height="220"/>
         </td>
     </tr>
 </table>
