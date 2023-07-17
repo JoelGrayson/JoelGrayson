@@ -9,16 +9,24 @@
     </tr>
     <tr>
         <td>
+            <!--
+                # Icon Sources
+                * custom-icon-badges.demolab.com for custom icons
+                * simpleicons.org for already usable icons
+                * shields.io/badges/static-badge has badge URL documentation
+            -->
             <div align='center'>
                 <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-0076C6.svg?logo=typescript&logoColor=white">
                 <img alt="React" src="https://img.shields.io/badge/-React-blue?logo=react">
                 <img alt="Next.js" src="https://img.shields.io/badge/-Next-black?logo=next.js">
-                <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=fff&color=416aa3">
+                <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=f9c44d&color=416aa3">
                 <br/>
-                <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+                <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3a3a3a?logo=javascript">
+                <img src="https://joelgrayson.com/image/github-profile/C.png" alt="C" width="21" height="21">
+                <img src="https://joelgrayson.com/image/github-profile/C++.png" alt="C++" width="21" height="21">
                 <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-                <img alt="Perl" src="https://custom-icon-badges.demolab.com/badge/-Perl-blue?logo=perl">
-                <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+                <img alt="Perl" src="https://custom-icon-badges.demolab.com/badge/-Perl-blue?logo=perl-camel-white">
+                <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=green">
                 <br/>
                 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
                 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspi-red?logo=raspberrypi">
