@@ -20,6 +20,7 @@
                 <img alt="React" src="https://img.shields.io/badge/-React-blue?logo=react">
                 <img alt="Next.js" src="https://img.shields.io/badge/-Next-black?logo=next.js">
                 <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=f9c44d&color=416aa3">
+                <img alt="TeX" src="https://img.shields.io/badge/-TeX-eeeeee">
                 <br/>
                 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3a3a3a?logo=javascript">
                 <img src="https://joelgrayson.com/image/github-profile/C.png" alt="C" width="21" height="21">
