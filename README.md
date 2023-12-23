@@ -28,6 +28,7 @@
                 <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
                 <img alt="Perl" src="https://custom-icon-badges.demolab.com/badge/-Perl-blue?logo=perl-camel-white">
                 <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=green">
+                <img alt="Bash" src="https://img.shields.io/badge/-PHP-blue?logo=php&logoColor=darkblue&color=white">
                 <br/>
                 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
                 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspi-red?logo=raspberrypi">
