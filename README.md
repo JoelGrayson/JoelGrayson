@@ -55,3 +55,5 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelgrayson&theme=github&hide_title=true" width="720"/>
     </a>
 </p>
+
+Note: many of my main repositories (buseroo.com, bulletbrainstorm.com, shirtocracy.com, sparelearn.com, edit-time, shanghaidictionary.com, and memorizethepresidents.com) are private to protect them. While I would love to make all my software open-source, doing so makes it harder to sell, more vulnerable to security risks, and able to be copied by larger companies.
