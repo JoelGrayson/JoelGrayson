@@ -19,9 +19,9 @@
                 * simpleicons.org for already usable icons
                 * shields.io/badges/static-badge has badge URL documentation
             -->
-            <div style='display: grid; grid-template-columns: 105px 1fr; gap: 0 8px'>
-                <div style='text-align: right'>Web:</div>
-                <div>
+            <div style='display: grid; grid-template-columns: 105px 1fr 0; gap: 0 8px'>
+                <span style='text-align: right'>Web:</span>
+                <span>
                     <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-0076C6.svg?logo=typescript&logoColor=white">
                     <img alt="React" src="https://img.shields.io/badge/React-blue?logo=react">
                     <img alt="Next.js" src="https://img.shields.io/badge/Next-black?logo=next.js">
@@ -32,34 +32,38 @@
                     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
                     <img alt="Docker" src='https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white'/>
                     <!-- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3a3a3a?logo=javascript"> -->
-                </div>
-                <div style='text-align: right'>App:</div>
-                <div>
+                </span>
+                <br>
+                <span style='text-align: right'>App:</span>
+                <span>
                     <img alt="React Native" src="https://img.shields.io/badge/React%20Native-blue?logo=react">
                     <img alt="Swift/SwiftUI" src="https://img.shields.io/badge/Swift-black?logo=swift&color=F05139&logoColor=white">
                     <img alt="Supabase" src="https://img.shields.io/badge/Supabase-black?logo=supabase">
-                </div>
-                <div style='text-align: right'>Embedded Sys:</div>
-                <div>
+                </span>
+                <br>
+                <span style='text-align: right'>Embedded Sys:</span>
+                <span>
                     <img alt="C" src="https://joelgrayson.com/image/github-profile/C.png" width="21" height="21">
                     <img alt="C++" src="https://joelgrayson.com/image/github-profile/C++.png" width="21" height="21">
                     <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white">
                     <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspi-red?logo=raspberrypi">
                     <img alt="ESP32" src="https://img.shields.io/badge/ESP32-black">
                     <!-- <img alt='Assembly' src='https://custom-icon-badges.demolab.com/badge/Assembly-black?logo=asm&logoColor=white' /> -->
-                </div>
-                <div style='text-align: right'>Misc:</div>
-                <div>
+                </span>
+                <br>
+                <span style='text-align: right'>Misc:</span>
+                <span>
                     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=f9c44d&color=416aa3">
                     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
                     <img alt="Perl" src="https://custom-icon-badges.demolab.com/badge/Perl-blue?logo=perl-camel-white">
-                    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=green">
-                    <img alt="TeX" src="https://img.shields.io/badge/TeX-eeeeee">
-                    <img alt="Amazon AWS" src='https://img.shields.io/badge/AWS-orange?logo=amazonaws'/>
+                    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011">
+                    <img alt="Amazon AWS" src='https://img.shields.io/badge/AWS-orange'/>
                     <img alt="GCP" src='https://img.shields.io/badge/GCP-blue?logo=googlecloud&logoColor=white' />
+                    <!-- <img alt="TeX" src="https://img.shields.io/badge/TeX-eeeeee"> -->
                     <!-- <img alt="Haskell" src="https://img.shields.io/badge/Haskell-darkblue?logo=haskell"> -->
                     <!-- <img alt="Haskell" src="https://img.shields.io/badge/OpenSSL-red"> -->
-                </div>
+                </span>
+                <br>
             </div>
         </td>
         <td>
