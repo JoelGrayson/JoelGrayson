@@ -80,4 +80,4 @@
     </a>
 </p>
 
-Note: many of my main repositories (buseroo.com, bulletbrainstorm.com, shirtocracy.com, sparelearn.com, edit-time, shanghaidictionary.com, and memorizethepresidents.com) are private to protect them. While I would love to make all my software open-source, doing so makes it harder to sell, more vulnerable to security risks, and able to be copied by larger companies.
+Note: many of my main repositories ([buseroo.com](https://buseroo.com), [shirtocracy.com](https://shirtocracy.com), [Edit Time](https://apps.apple.com/us/app/edit-time/id6464405876?mt=12), [MemorizeThePresidents.com](https://memorizethepresidents.com), [ShanghaiDictionary.com](https://shanghaidictionary.com), etc.) are private to protect them. While I would love to make all my software open-source, doing so makes it harder to sell, more vulnerable to security risks, and able to be copied by large companies.
