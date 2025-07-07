@@ -39,6 +39,7 @@
                     <img alt="React Native" src="https://img.shields.io/badge/React%20Native-blue?logo=react">
                     <img alt="Swift/SwiftUI" src="https://img.shields.io/badge/Swift-black?logo=swift&color=F05139&logoColor=white">
                     <img alt="Supabase" src="https://img.shields.io/badge/Supabase-black?logo=supabase">
+                    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-orange?logo=firebase">
                 </span>
                 <br>
                 <span style='text-align: right'>Embedded Sys:</span>
