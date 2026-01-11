@@ -68,7 +68,8 @@
             </div>
         </td>
         <td>
-            <img alt='Top Languages' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelgrayson&langs_count=24&layout=compact&line_height&theme=vue&hide_title=true&hide=jupyter%20notebook,css,html,python" height="220"/>
+            <img alt='Top Languages' src="https://joelgrayson-github-stats.vercel.app/api/top-langs/?username=joelgrayson&langs_count=24&layout=compact&line_height&theme=vue&hide_title=true&hide=jupyter%20notebook,css,html,python" height="220"/>
+            <!-- <img alt='Top Languages' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelgrayson&langs_count=24&layout=compact&line_height&theme=vue&hide_title=true&hide=jupyter%20notebook,css,html,python" height="220"/> -->
         </td>
     </tr>
 </table>
@@ -77,7 +78,8 @@
 
 <p align='center'>
     <a href='https://skyline.github.com/JoelGrayson/' target='_blank'>
-        <img alt='GitHub User Profile' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelgrayson&theme=github&hide_title=true" width="720"/>
+        <img alt='GitHub User Profile' src="https://joelgrayson-github-stats-chart.vercel.app/api/cards/profile-details?username=joelgrayson&theme=github&hide_title=true" width="720"/>
+        <!-- <img alt='GitHub User Profile' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelgrayson&theme=github&hide_title=true" width="720"/> -->
     </a>
 </p>
 
